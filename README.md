@@ -140,13 +140,6 @@ This course is designed for educational purposes. Feel free to:
 - Create variations of existing exercises
 - Share your solutions with fellow learners
 
-## 💰 Career Outlook
-
-According to the [Machine Learning Engineer career path](https://www.educative.io/path/become-a-machine-learning-engineer), ML engineers can expect:
-- **Entry-level salaries**: Starting around $90,000
-- **Average salaries**: $120,000–$150,000 annually in the U.S.
-- **Experienced professionals**: Upwards of $200,000 in specialized areas like deep learning
-
 ---
 
 **Note**: This Python review course is designed as a prerequisite foundation for the comprehensive [Machine Learning Engineer Career Path](https://www.educative.io/path/become-a-machine-learning-engineer) offered by Educative.com. For the complete learning experience and career preparation, consider enrolling in the full 12-module program after completing this Python review.
